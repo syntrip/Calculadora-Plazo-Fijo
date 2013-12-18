@@ -1,4 +1,4 @@
 Calculadora-Plazo-Fijo
 ======================
 
-Calculadora de plazo fijo para android.
+Calculadora de plazo fijo para Android.
