@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Calculadora de Plazos Fijos</string>
+    <string name="intereses_por_mes">Intereses / mes</string>
+    <string name="intereses_ganados">Intereses ganados</string>
+    <string name="monto_final">Monto final</string>
+    <string name="calcular">Calcular</string>
+    <string name="lapso_en_dias">Lapso (d&#237;as)</string>
+    <string name="tasa_nominal_anual">Tasa Nominal Anual</string>
+    <string name="monto_inicial">Monto inicial</string>
+    
+</resources>
